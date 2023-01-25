@@ -14,7 +14,7 @@ function add() {
     return
   }
 
-  alert('adicionado ✅')
+  alert('adicion ✅')
   nlwSetup.addDay(today)
 }
 
